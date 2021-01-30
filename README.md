@@ -12,7 +12,7 @@ https://store.flytron.com/products/tiny-drive-v1-sbus-ppm-1-5a-dual-motor-contro
 ## Installing the Firmware
 
 TinyDrive v1 boards are based on Atmega328P microcontroller that installed Arduino Pro Mini bootloader. 
-You need Arduino IDE(1.8 or above) & an FTDI 3.3V Serial Adapter to compile and upload the firmare to TinyDrive boards.
+You need only Arduino IDE(1.8 or above) & an FTDI 3.3V Serial Adapter to compile and upload the firmare.
 
 ### Arduino IDE Settings
 - Select Tools>Board>Arduino Pro or Pro mini
